@@ -56,14 +56,14 @@ If you write to me by email, don't expect a quick response. Email is used as a p
 
 ##FAQ
 
-[вопрос] Почему ты начал программировать?<br>
-[ответ] Изначально меня очень привлекало то, что своими руками я могу создавать что-то крутое.<br>
+#### [вопрос] Почему ты начал программировать?
+#### [ответ] Изначально меня очень привлекало то, что своими руками я могу создавать что-то крутое.
 ---
-[вопрос] Какой у тебя текущий уровень программирования?<br>
-[ответ] Не знаю, но предполагаю, что junior.
+#### [вопрос] Какой у тебя текущий уровень программирования?
+#### [ответ] Не знаю, но предполагаю, что junior.
 ---
-[вопрос] Тебе нравится писать всё с нуля?<br>
-[ответ] Да, я люблю писать всё с нуля. Например, однажды, хоть и не очень успешно, я психанул из-за одной библиотеки и написал всё с нуля.
+#### [вопрос] Тебе нравится писать всё с нуля?
+#### [ответ] Да, я люблю писать всё с нуля. Например, однажды, хоть и не очень успешно, я психанул из-за одной библиотеки и написал всё с нуля.
 
 ---
 
@@ -90,4 +90,3 @@ Telegram: @daniil_21_36
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
