@@ -36,3 +36,58 @@ If you write to me by email, don't expect a quick response. Email is used as a p
 ***
 # Russian
 - Русский 
+#О себе
+
+Привет, мой никнейм длинный, поэтому, пожалуйста, обращайтесь ко мне по имени — «Даниил». <br>
+Я изучаю программирование уже 4 года, но только недавно начал писать проекты. <br>
+Мой первый проект — PPlay, что расшифровывается как Python Player. <br>
+Я планирую перейти с Python на ассемблер и Java, потому что, по моему мнению, Python слишком ограничен, и я буду писать на нём только лабораторные работы. <br>
+!!! Я только изучаю ассемблер и Java !!!
+
+***
+
+##Языки, которые я знаю или изучаю
+
+- Python
+- Java
+- NASM
+
+***
+
+##FAQ
+
+[вопрос] Почему ты начал программировать?<br>
+[ответ] Изначально меня очень привлекало то, что своими руками я могу создавать что-то крутое.<br>
+---
+[вопрос] Какой у тебя текущий уровень программирования?<br>
+[ответ] Не знаю, но предполагаю, что junior.
+---
+[вопрос] Тебе нравится писать всё с нуля?<br>
+[ответ] Да, я люблю писать всё с нуля. Например, однажды, хоть и не очень успешно, я психанул из-за одной библиотеки и написал всё с нуля.
+
+---
+
+##Мои контакты
+
+Gmail: contact.email.daniil@gmail.com
+
+и
+
+Telegram: @daniil_21_36
+
+#!!! ВНИМАНИЕ !!!
+
+Если что-то срочное — пишите в Telegram. Если я не занят, я отвечу.<br>
+---
+Если вы пишете мне на почту, не ожидайте быстрого ответа. Электронная почта используется как место, где люди сообщают об ошибках в моих приложениях
+***
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
