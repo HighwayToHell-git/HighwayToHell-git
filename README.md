@@ -46,7 +46,7 @@ If you write to me by email, don't expect a quick response. Email is used as a p
 
 ***
 
-##Языки, которые я знаю или изучаю
+## Языки, которые я знаю или изучаю
 
 - Python
 - Java
@@ -54,7 +54,7 @@ If you write to me by email, don't expect a quick response. Email is used as a p
 
 ***
 
-##FAQ
+## FAQ
 
 #### [вопрос] Почему ты начал программировать?
 #### [ответ] Изначально меня очень привлекало то, что своими руками я могу создавать что-то крутое.
@@ -67,7 +67,7 @@ If you write to me by email, don't expect a quick response. Email is used as a p
 
 ---
 
-##Мои контакты
+## Мои контакты
 
 Gmail: contact.email.daniil@gmail.com
 
@@ -75,7 +75,7 @@ Gmail: contact.email.daniil@gmail.com
 
 Telegram: @daniil_21_36
 
-#!!! ВНИМАНИЕ !!!
+# !!! ВНИМАНИЕ !!!
 
 Если что-то срочное — пишите в Telegram. Если я не занят, я отвечу.<br>
 ---
