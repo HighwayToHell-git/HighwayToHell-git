@@ -1,4 +1,4 @@
-[Russian\Русский](#russian)<br>
+[Russian\Русский](#Russian)<br>
 # English [![Google Translate](https://img.shields.io/badge/Translate-Google-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)](https://translate.google.com/)
 ## About me
 Hello, my nickname is long, so please contact me by my name "Daniil". <br>
@@ -33,3 +33,6 @@ If something is urgent, write to Telegram. If I'm not busy, I'll answer.<br>
 ---
 If you write to me by email, don't expect a quick response. Email is used as a place where people report bugs in my apps.
 ***
+***
+# Russian
+- Русский 
